@@ -1,0 +1,30 @@
+# Python cache files (these are auto-generated)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ChromaDB data files (these are large binary files that shouldn't be in git)
+backend/chromadb/
+**/chroma.sqlite3
+*.bin
+*.sqlite3
+
+# Virtual Environment (don't push these)
+rag/
+rag-env/
+conda-env/
+env/
+venv/
+ENV/
+
+# IDE files (personal settings)
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
