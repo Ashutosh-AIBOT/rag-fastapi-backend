@@ -26,3 +26,4 @@ A Retrieval-Augmented Generation (RAG) application using ChromaDB, Ollama, and F
 ```bash
 git clone https://github.com/YOUR_USERNAME/rag-project.git
 cd rag-project
+# rag_api
