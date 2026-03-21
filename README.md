@@ -95,7 +95,3 @@ streamlit run app.py
 ## 👤 Author
 **Ashutosh** · B.Tech Electronics Engineering · Batch 2026
 ```
-
-vector-database
-embeddings
-retrieval-augmented-generation
