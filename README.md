@@ -46,7 +46,7 @@ User Input
   ├── Voice → Whisper (local) → text
   └── Text  → direct input
         ↓
-Streamlit UI
+       UI
         ↓
 Ollama Local Server
   → Llama model loaded in memory
